@@ -1,5 +1,12 @@
 # 📖 atc-ui-wiki
 
+> ## 🤖 Fuer KI-Agenten — Pflichtlektuere vor jeder Aenderung
+> Governance liegt zentral im Wiki-Repo `a-townchain-os-docs`:
+> 1. [`AGENT_POLICY.md`](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/AGENT_POLICY.md) — verbindliche Regeln, Reality-Check, Konsolidierungsziel
+> 2. [`AGENT_COORDINATION.md`](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/AGENT_COORDINATION.md) — wer arbeitet gerade woran, Todos, Agent-IDs
+> 3. [`DECISIONS_REGISTER.md`](https://github.com/A-TownChain-Okosystems/a-townchain-os-docs/blob/main/docs/DECISIONS_REGISTER.md) — verbindliche Architektur-Entscheidungen
+
+
 > Offizielle Dokumentation für [atc-ui](https://github.com/A-TownChain-Okosystems/atc-ui) — **L10 Frontend** im A-TownChain Ökosystem
 
 [![Code](https://img.shields.io/badge/Code-atc-ui-blue)](https://github.com/A-TownChain-Okosystems/atc-ui)

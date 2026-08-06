@@ -1,13 +1,13 @@
-# 🔌 API Reference — atc-ui
+# 📦 Module — atc-ui
 
 > **Repo:** [atc-ui](https://github.com/A-TownChain-Okosystems/atc-ui)
 > **Stand:** 2026-08-06
 
 ---
 
-*Keine API-Funktionen gefunden. Implementierung ausstehend.*
+*Keine Code-Module gefunden. Implementierung ausstehend.*
 
-**Total: 0 Funktionen**
+**Total: 0 Module**
 
 ---
 

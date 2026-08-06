@@ -1,17 +1,23 @@
-# ATC Dashboard UI — Roadmap
+# 🗺️ Roadmap — atc-ui
 
-> Stand: 10. Juni 2026
+> **Repo:** [atc-ui](https://github.com/A-TownChain-Okosystems/atc-ui)
+> **Layer:** L10 | **Stand:** 2026-08-06
 
-## v2.2.0 — ABGESCHLOSSEN ✅
-- ShivaOS UI Renderer TUI [#28]
-- Marketplace-UI (Auktion + Festpreis) [#13]
-- Breeding-UI (Eltern wählen, DNA-Preview) [#11]
-- Node-Monitoring-Dashboard [#19]
+---
 
-## v3.0.0 — IN PLANUNG 🔄
-- [ ] React/Vue Rewrite
-- [ ] Mobile Wallet App [#21]
-- [ ] Dark/Light Toggle
-- [ ] DEX-Interface [#20]
-- [ ] Cross-Chain Bridge UI
-- [ ] Multi-Language DE/EN
+## Sprint-Zuordnung
+
+| Sprint | Phase | Status | Aufgaben |
+|--------|-------|--------|----------|
+| 3.1 | Frontend+Wallet | Geplant | — |
+| 3.2 | AI Studio | Aktiv | — |
+
+## Meilensteine
+
+1. **v0.3** — ATCLang Parser stabil, Basis-Module migriert
+2. **v0.4** — Struct-Inheritance, Kernel-Support, VM Opcodes
+3. **v1.0** — Vollständige Implementierung, Test-Abdeckung >80%
+
+---
+
+*Auto-generiert 2026-08-06 · Aurora (MasterBrain · Base44)*
